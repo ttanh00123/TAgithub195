@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TAgithub195
-- 👀 I’m interested in data analyzation
-- 🌱 I’m currently learning python
-- 📫 How to reach me discord: ta#7534
+- 👋 Hi, I’m @ttanh00123
+- 👀 I’m interested in DS/AI
+- 🌱 I’m currently learning tensorflow and LLMs
+- 📫 How to reach me discord: ttanh00123
 
 <!---
 TAgithub195/TAgithub195 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
